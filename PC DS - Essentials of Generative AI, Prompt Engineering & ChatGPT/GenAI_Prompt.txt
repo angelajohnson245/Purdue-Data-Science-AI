@@ -1,0 +1,81 @@
+Create a resume for that person
+-> 5 yrs -> IT industry
+
+Multilingual Book Translation
+-> English 
+-> multilingual translation - wider audience
+
+Resume -> Create a professional LinkedIn Headline and profile 
+       -> showcase skills, experiences, professional brand
+
+Security -> there is history - prompts, information - saved there
+         -> ChatGPT - saved but safe - not exposed
+         -> Bugs, Virus
+         -> Corporate - policies, confidential data - shared - private clouds
+
+Sentiment Analysis - Analyse user sentiments - positive , negative, neutral
+
+Multimodal Capability - Image providing - analyse - some details - giving in prompt
+                      - Prompt - describing about the image we want chatgpt to create
+
+Write for Me : Engaging and relevant marketing content for some topic - Use Write For Me GPT
+
+Step 1: Search for Write For Me
+
+
+Prompt : professional email to your team members, 
+         -> detailed weekly updated on the project
+         -> overview of past week progress
+         -> challenges encountered
+         -> upcoming milestones next week
+         -> assign responsibilities team members
+
+Design well crafted prompt and then test in chatgpt
+
+Few Shot Prompting Technique :
+
+-> maths prob -> chatgpt should give a solution step by step.
+-> provide 2 examples
+
+Solve the math problems step by step as given in the following examples.
+
+Example 1:
+Question: If a pen costs $2 and you buy 3 pens, how much do you pay?
+Answer:
+Step 1: Cost of one pen = $2  
+Step 2: Number of pens = 3  
+Step 3: Total cost = 2 × 3 = $6  
+
+Example 2:
+Question: A book costs $5. You buy 4 books. What is the total cost?
+Answer:
+Step 1: Cost of one book = $5  
+Step 2: Number of books = 4  
+Step 3: Total cost = 5 × 4 = $20  
+
+Now solve:
+Question: A notebook costs $3. You buy 7 notebooks.
+Answer:
+
+------------------------------------------------
+
+Chain of Thought Prompting Technique :
+
+explain class of students step by step reasoning of how gravitational force works
+
+prompt1 -> chagpt
+prompt2 -> chagpt
+
+Prompt 1: Define concept of gravitational force. Explain with some simple example.
+Prompt 2: What are the key elements of gravity; 
+Prompt 3: Given these elements, what´s the mathematical equation of gravitational forcé: 
+Prompt 4: Can gravitational force be influenced by other factors like time?
+
+-------------------------------------------------
+
+
+
+
+
+
+
